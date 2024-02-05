@@ -21,5 +21,10 @@ namespace WindowsFormsApp6
         {
             MessageBox.Show("Hell Saman this me Ahmed");
         }
+
+        private void btnTest_Click(object sender, EventArgs e)
+        {
+            lbl.Text = "This is a test, saman, so if it works that mean we are working right.";
+        }
     }
 }

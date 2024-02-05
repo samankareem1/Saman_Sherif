@@ -8,3 +8,13 @@ C:\Users\aaaa_\Desktop\Ahmed_kareem11\Saman_Sherif\WindowsFormsApp6\obj\Debug\Wi
 C:\Users\aaaa_\Desktop\Ahmed_kareem11\Saman_Sherif\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
 C:\Users\aaaa_\Desktop\Ahmed_kareem11\Saman_Sherif\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
 C:\Users\aaaa_\Desktop\Ahmed_kareem11\Saman_Sherif\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\PC\Desktop\Saman_Sherif\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\PC\Desktop\Saman_Sherif\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\PC\Desktop\Saman_Sherif\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\PC\Desktop\Saman_Sherif\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Saman_Sherif\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\PC\Desktop\Saman_Sherif\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\PC\Desktop\Saman_Sherif\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Saman_Sherif\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Saman_Sherif\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\PC\Desktop\Saman_Sherif\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
